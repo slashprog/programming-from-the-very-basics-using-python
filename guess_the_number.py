@@ -8,7 +8,7 @@ cancelled = False
 
 while guess != number:
     guess = int(input("Guess a number between 10 to 20 (or 0 to exit): "))
-    if guess == 0:
+    if not guess:
         print("Thank you!")
         cancelled = True
         break
