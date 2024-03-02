@@ -1,0 +1,14 @@
+[10, 20, 30, 40]
+456
+67.8
+False
+{'name': 'alice', 'role': 'developer'}
+This is a test line written using append mode.
+this is another line appended using print()
+This is a test line written using append mode.
+this is another line appended using print()
+This is a test line written using append mode.
+this is another line appended using print()
+This is a test line written using append mode.
+this is another line appended using print()
+456
